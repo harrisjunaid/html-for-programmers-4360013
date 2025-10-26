@@ -42,7 +42,9 @@
 				"sdras.night-owl",
 				"GitHub.codespaces",
 				"GitHub.remotehub",
-				"ms-vscode.remote-repositories"
+				"ms-vscode.remote-repositories",
+				"ritwickdey.LiveServer",
+				"ms-vscode.live-server"
 			]
 		}
 	},
