@@ -44,7 +44,8 @@
 				"GitHub.remotehub",
 				"ms-vscode.remote-repositories",
 				"ritwickdey.LiveServer",
-				"ms-vscode.live-server"
+				"ms-vscode.live-server",
+				"christian-kohler.npm-intellisense"
 			]
 		}
 	},
